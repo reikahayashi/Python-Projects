@@ -1,3 +1,3 @@
 # Python-Projects
 
-Easy python projects that were worked during through coding classes!
+Easy python projects worked on during coding classes!
